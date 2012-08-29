@@ -1,0 +1,7 @@
+﻿No Silver Bullet
+
+El paper de Fred Brooks, No Silver Bullet, trata sobre las complejidades que hay en el proceso de desarrollo de software y el título se refiere más precisamente a que no existen soluciones mágicas para solucionar estás dificultades.
+Brooks distingue dos tipos de problemas dentro del desarrollo de software, los accidentales y los esenciales.
+Los accidentales se enfocan en la producción de software, hace hincapié en que todos los avances tecnológicos (lease entornos integrados de desarrollo, lenguajes de alto nivel, inteligencia artificial, etc.) que se ven como la solución mágica para poder construir software sin fallas sólo facilitan el entorno de trabajo y generan mayor productividad.
+Los esenciales se refieren a la naturaleza misma del software, donde remarca 4 características, complejidad, conformidad, cambio constante, intangibilidad. Entonces, podemos ver que la parte díficil de construir software no radica en la implementación(problemas accidentales), sino, en la especificación y el diseño del mismo, tarea para la cual las únicas herramientas son el conocimiento técnico, la experiencia y la creatividad de una persona. Finalmente remarca la necesidad de formar grandes diseñadores para poder atacar mejor estos problemas
+
