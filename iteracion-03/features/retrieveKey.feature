@@ -1,4 +1,4 @@
-Feature: As a speaker I want to retrieve the key in case of losing.
+Feature: As a speaker I want to retrieve the key in case of losing
 	Sucessfull Scenario should show We have sent your password to your email
 
 Scenario: Key Recovery Successfully

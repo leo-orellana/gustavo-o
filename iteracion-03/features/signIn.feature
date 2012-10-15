@@ -1,10 +1,10 @@
-Feature: As a speaker i want to Sign In to login
+Feature: As an anonymous user i want to Sign In to login
 	Sucessfull Scenario should show Leo
-  Failed Scenario should show The username already exists
+	Failed Scenario should show The username already exists
 	Username should be unique
 
 Background:
-  Given the username "leonardo" exists
+	Given the username "leonardo" exists
 
 Scenario: Sign in with a non existing user
 	Given I am in the "Sign In" screen

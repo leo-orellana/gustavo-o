@@ -1,5 +1,5 @@
 Feature: As an assistant I rate the event to give feedback to the speaker
-	 Sucessfull Scenario should show Your Score was sent! Thanks!
+	Sucessfull Scenario should show Your Score was sent! Thanks!
 
 Scenario : Successfull Assistant Rate
 	Given I am in the "Rating" screen

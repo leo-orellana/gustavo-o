@@ -1,13 +1,13 @@
-Feature: As a speaker I want to create an event in order to receive feedback.
+Feature: As a speaker I want to create an event in order to receive feedback
 	Sucessfull Scenario should show Event Ruby was created
-  Failed Scenario should show The name already exists
+	Failed Scenario should show The name already exists
 
 Background:
 	Given the event "Java" exists	
 
 Scenario: Event Succesfully Created
 	Given I am in the "Create Event" screen
-	And I enter the eventName "RUBY"
+	And I enter the eventName "Ruby"
 	And I enter the date "10/03/2013"
 	When I press "Create Event"
 	Then I should get "Event Ruby was created"

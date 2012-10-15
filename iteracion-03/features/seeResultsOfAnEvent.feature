@@ -3,7 +3,7 @@ Feature: As a speaker I want to see the results of the event to have a statistic
 	Sucessfull Scenario should show Stats
 
 Background:
-  Given the event "Python" exists
+	Given the event "Python" exists
 
 Scenario: Successfull Access to an Event’s Statistics
 	Given I am in the "View Event" screen

@@ -1,4 +1,4 @@
-Feature: As a speaker i want generate a event link to share and get feedback.
+Feature: As a speaker i want generate a event link to share and get feedback
 	Sucessfull Scenario should show It's a link:
 
 Scenario: Successful creation of a link to one event
