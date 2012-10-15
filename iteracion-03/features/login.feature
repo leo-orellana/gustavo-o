@@ -1,6 +1,6 @@
 Feature: As a speaker I want to login in order to use the application
 	Sucessfull Scenario should show Leo
-  Failed Scenario should show Fail
+	Failed Scenario should show Fail
 
 Background:
   Given the username "leo" with password "abc1234" exists
